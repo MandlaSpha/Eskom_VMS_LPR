@@ -1,0 +1,10 @@
+# OS / Office temp files
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+.~lock.*
+# Never commit ID numbers, banking or credentials
+*.pfx
+*.key
+.env
